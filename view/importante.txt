@@ -1,0 +1,9 @@
+documento Andres
+http://andres-pineda.com/web/recursos/trabajo-web.pdf
+
+
+iconos y botones
+http://bootsnipp.com/buttons
+
+creacion de formularios y consultas
+http://bootsnipp.com/forms?version=3
